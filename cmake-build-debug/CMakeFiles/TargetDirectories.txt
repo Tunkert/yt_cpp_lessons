@@ -22,5 +22,11 @@
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/022_string_length.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/023_escape_characters.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/024_cmath.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/025_conditionals.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/026_ternary.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/027_switch.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/028_while_loop.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/029_fizzbuzz_while_loop.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/030_do_while_loop.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/rebuild_cache.dir

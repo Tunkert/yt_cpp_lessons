@@ -784,6 +784,192 @@ build 024_cmath: CXX_EXECUTABLE_LINKER__024_cmath_Debug CMakeFiles/024_cmath.dir
   TARGET_FILE = 024_cmath
   TARGET_PDB = 024_cmath.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 025_conditionals
+
+
+#############################################
+# Order-only phony target for 025_conditionals
+
+build cmake_object_order_depends_target_025_conditionals: phony || CMakeFiles/025_conditionals.dir
+
+build CMakeFiles/025_conditionals.dir/025_conditionals.cpp.o: CXX_COMPILER__025_conditionals_Debug /home/tunkert/competitive_programming/cpp_lessons/025_conditionals.cpp || cmake_object_order_depends_target_025_conditionals
+  DEP_FILE = CMakeFiles/025_conditionals.dir/025_conditionals.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/025_conditionals.dir
+  OBJECT_FILE_DIR = CMakeFiles/025_conditionals.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 025_conditionals
+
+
+#############################################
+# Link the executable 025_conditionals
+
+build 025_conditionals: CXX_EXECUTABLE_LINKER__025_conditionals_Debug CMakeFiles/025_conditionals.dir/025_conditionals.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/025_conditionals.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 025_conditionals
+  TARGET_PDB = 025_conditionals.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 026_ternary
+
+
+#############################################
+# Order-only phony target for 026_ternary
+
+build cmake_object_order_depends_target_026_ternary: phony || CMakeFiles/026_ternary.dir
+
+build CMakeFiles/026_ternary.dir/026_ternary.cpp.o: CXX_COMPILER__026_ternary_Debug /home/tunkert/competitive_programming/cpp_lessons/026_ternary.cpp || cmake_object_order_depends_target_026_ternary
+  DEP_FILE = CMakeFiles/026_ternary.dir/026_ternary.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/026_ternary.dir
+  OBJECT_FILE_DIR = CMakeFiles/026_ternary.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 026_ternary
+
+
+#############################################
+# Link the executable 026_ternary
+
+build 026_ternary: CXX_EXECUTABLE_LINKER__026_ternary_Debug CMakeFiles/026_ternary.dir/026_ternary.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/026_ternary.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 026_ternary
+  TARGET_PDB = 026_ternary.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 027_switch
+
+
+#############################################
+# Order-only phony target for 027_switch
+
+build cmake_object_order_depends_target_027_switch: phony || CMakeFiles/027_switch.dir
+
+build CMakeFiles/027_switch.dir/027_switch.cpp.o: CXX_COMPILER__027_switch_Debug /home/tunkert/competitive_programming/cpp_lessons/027_switch.cpp || cmake_object_order_depends_target_027_switch
+  DEP_FILE = CMakeFiles/027_switch.dir/027_switch.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/027_switch.dir
+  OBJECT_FILE_DIR = CMakeFiles/027_switch.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 027_switch
+
+
+#############################################
+# Link the executable 027_switch
+
+build 027_switch: CXX_EXECUTABLE_LINKER__027_switch_Debug CMakeFiles/027_switch.dir/027_switch.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/027_switch.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 027_switch
+  TARGET_PDB = 027_switch.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 028_while_loop
+
+
+#############################################
+# Order-only phony target for 028_while_loop
+
+build cmake_object_order_depends_target_028_while_loop: phony || CMakeFiles/028_while_loop.dir
+
+build CMakeFiles/028_while_loop.dir/028_while_loop.cpp.o: CXX_COMPILER__028_while_loop_Debug /home/tunkert/competitive_programming/cpp_lessons/028_while_loop.cpp || cmake_object_order_depends_target_028_while_loop
+  DEP_FILE = CMakeFiles/028_while_loop.dir/028_while_loop.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/028_while_loop.dir
+  OBJECT_FILE_DIR = CMakeFiles/028_while_loop.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 028_while_loop
+
+
+#############################################
+# Link the executable 028_while_loop
+
+build 028_while_loop: CXX_EXECUTABLE_LINKER__028_while_loop_Debug CMakeFiles/028_while_loop.dir/028_while_loop.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/028_while_loop.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 028_while_loop
+  TARGET_PDB = 028_while_loop.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 029_fizzbuzz_while_loop
+
+
+#############################################
+# Order-only phony target for 029_fizzbuzz_while_loop
+
+build cmake_object_order_depends_target_029_fizzbuzz_while_loop: phony || CMakeFiles/029_fizzbuzz_while_loop.dir
+
+build CMakeFiles/029_fizzbuzz_while_loop.dir/029_fizzbuzz_while_loop.cpp.o: CXX_COMPILER__029_fizzbuzz_while_loop_Debug /home/tunkert/competitive_programming/cpp_lessons/029_fizzbuzz_while_loop.cpp || cmake_object_order_depends_target_029_fizzbuzz_while_loop
+  DEP_FILE = CMakeFiles/029_fizzbuzz_while_loop.dir/029_fizzbuzz_while_loop.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/029_fizzbuzz_while_loop.dir
+  OBJECT_FILE_DIR = CMakeFiles/029_fizzbuzz_while_loop.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 029_fizzbuzz_while_loop
+
+
+#############################################
+# Link the executable 029_fizzbuzz_while_loop
+
+build 029_fizzbuzz_while_loop: CXX_EXECUTABLE_LINKER__029_fizzbuzz_while_loop_Debug CMakeFiles/029_fizzbuzz_while_loop.dir/029_fizzbuzz_while_loop.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/029_fizzbuzz_while_loop.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 029_fizzbuzz_while_loop
+  TARGET_PDB = 029_fizzbuzz_while_loop.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 030_do_while_loop
+
+
+#############################################
+# Order-only phony target for 030_do_while_loop
+
+build cmake_object_order_depends_target_030_do_while_loop: phony || CMakeFiles/030_do_while_loop.dir
+
+build CMakeFiles/030_do_while_loop.dir/030_do_while_loop.cpp.o: CXX_COMPILER__030_do_while_loop_Debug /home/tunkert/competitive_programming/cpp_lessons/030_do_while_loop.cpp || cmake_object_order_depends_target_030_do_while_loop
+  DEP_FILE = CMakeFiles/030_do_while_loop.dir/030_do_while_loop.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/030_do_while_loop.dir
+  OBJECT_FILE_DIR = CMakeFiles/030_do_while_loop.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 030_do_while_loop
+
+
+#############################################
+# Link the executable 030_do_while_loop
+
+build 030_do_while_loop: CXX_EXECUTABLE_LINKER__030_do_while_loop_Debug CMakeFiles/030_do_while_loop.dir/030_do_while_loop.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/030_do_while_loop.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 030_do_while_loop
+  TARGET_PDB = 030_do_while_loop.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -819,7 +1005,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug
 
-build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment 018_comparison_operators 019_logical_operators 020_string_concatenation 021_add_string_nums 022_string_length 023_escape_characters 024_cmath
+build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment 018_comparison_operators 019_logical_operators 020_string_concatenation 021_add_string_nums 022_string_length 023_escape_characters 024_cmath 025_conditionals 026_ternary 027_switch 028_while_loop 029_fizzbuzz_while_loop 030_do_while_loop
 
 # =============================================================================
 # Built-in targets
