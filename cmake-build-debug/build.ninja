@@ -970,6 +970,161 @@ build 030_do_while_loop: CXX_EXECUTABLE_LINKER__030_do_while_loop_Debug CMakeFil
   TARGET_FILE = 030_do_while_loop
   TARGET_PDB = 030_do_while_loop.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 031_for_loop
+
+
+#############################################
+# Order-only phony target for 031_for_loop
+
+build cmake_object_order_depends_target_031_for_loop: phony || CMakeFiles/031_for_loop.dir
+
+build CMakeFiles/031_for_loop.dir/031_for_loop.cpp.o: CXX_COMPILER__031_for_loop_Debug /home/tunkert/competitive_programming/cpp_lessons/031_for_loop.cpp || cmake_object_order_depends_target_031_for_loop
+  DEP_FILE = CMakeFiles/031_for_loop.dir/031_for_loop.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/031_for_loop.dir
+  OBJECT_FILE_DIR = CMakeFiles/031_for_loop.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 031_for_loop
+
+
+#############################################
+# Link the executable 031_for_loop
+
+build 031_for_loop: CXX_EXECUTABLE_LINKER__031_for_loop_Debug CMakeFiles/031_for_loop.dir/031_for_loop.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/031_for_loop.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 031_for_loop
+  TARGET_PDB = 031_for_loop.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 032_break_continue
+
+
+#############################################
+# Order-only phony target for 032_break_continue
+
+build cmake_object_order_depends_target_032_break_continue: phony || CMakeFiles/032_break_continue.dir
+
+build CMakeFiles/032_break_continue.dir/032_break_continue.cpp.o: CXX_COMPILER__032_break_continue_Debug /home/tunkert/competitive_programming/cpp_lessons/032_break_continue.cpp || cmake_object_order_depends_target_032_break_continue
+  DEP_FILE = CMakeFiles/032_break_continue.dir/032_break_continue.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/032_break_continue.dir
+  OBJECT_FILE_DIR = CMakeFiles/032_break_continue.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 032_break_continue
+
+
+#############################################
+# Link the executable 032_break_continue
+
+build 032_break_continue: CXX_EXECUTABLE_LINKER__032_break_continue_Debug CMakeFiles/032_break_continue.dir/032_break_continue.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/032_break_continue.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 032_break_continue
+  TARGET_PDB = 032_break_continue.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 033_arrays
+
+
+#############################################
+# Order-only phony target for 033_arrays
+
+build cmake_object_order_depends_target_033_arrays: phony || CMakeFiles/033_arrays.dir
+
+build CMakeFiles/033_arrays.dir/033_arrays.cpp.o: CXX_COMPILER__033_arrays_Debug /home/tunkert/competitive_programming/cpp_lessons/033_arrays.cpp || cmake_object_order_depends_target_033_arrays
+  DEP_FILE = CMakeFiles/033_arrays.dir/033_arrays.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/033_arrays.dir
+  OBJECT_FILE_DIR = CMakeFiles/033_arrays.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 033_arrays
+
+
+#############################################
+# Link the executable 033_arrays
+
+build 033_arrays: CXX_EXECUTABLE_LINKER__033_arrays_Debug CMakeFiles/033_arrays.dir/033_arrays.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/033_arrays.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 033_arrays
+  TARGET_PDB = 033_arrays.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 034_no_array_size
+
+
+#############################################
+# Order-only phony target for 034_no_array_size
+
+build cmake_object_order_depends_target_034_no_array_size: phony || CMakeFiles/034_no_array_size.dir
+
+build CMakeFiles/034_no_array_size.dir/034_no_array_size.cpp.o: CXX_COMPILER__034_no_array_size_Debug /home/tunkert/competitive_programming/cpp_lessons/034_no_array_size.cpp || cmake_object_order_depends_target_034_no_array_size
+  DEP_FILE = CMakeFiles/034_no_array_size.dir/034_no_array_size.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/034_no_array_size.dir
+  OBJECT_FILE_DIR = CMakeFiles/034_no_array_size.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 034_no_array_size
+
+
+#############################################
+# Link the executable 034_no_array_size
+
+build 034_no_array_size: CXX_EXECUTABLE_LINKER__034_no_array_size_Debug CMakeFiles/034_no_array_size.dir/034_no_array_size.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/034_no_array_size.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 034_no_array_size
+  TARGET_PDB = 034_no_array_size.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 035_get_size_of_array
+
+
+#############################################
+# Order-only phony target for 035_get_size_of_array
+
+build cmake_object_order_depends_target_035_get_size_of_array: phony || CMakeFiles/035_get_size_of_array.dir
+
+build CMakeFiles/035_get_size_of_array.dir/035_get_size_of_array.cpp.o: CXX_COMPILER__035_get_size_of_array_Debug /home/tunkert/competitive_programming/cpp_lessons/035_get_size_of_array.cpp || cmake_object_order_depends_target_035_get_size_of_array
+  DEP_FILE = CMakeFiles/035_get_size_of_array.dir/035_get_size_of_array.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/035_get_size_of_array.dir
+  OBJECT_FILE_DIR = CMakeFiles/035_get_size_of_array.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 035_get_size_of_array
+
+
+#############################################
+# Link the executable 035_get_size_of_array
+
+build 035_get_size_of_array: CXX_EXECUTABLE_LINKER__035_get_size_of_array_Debug CMakeFiles/035_get_size_of_array.dir/035_get_size_of_array.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/035_get_size_of_array.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 035_get_size_of_array
+  TARGET_PDB = 035_get_size_of_array.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1005,7 +1160,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug
 
-build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment 018_comparison_operators 019_logical_operators 020_string_concatenation 021_add_string_nums 022_string_length 023_escape_characters 024_cmath 025_conditionals 026_ternary 027_switch 028_while_loop 029_fizzbuzz_while_loop 030_do_while_loop
+build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment 018_comparison_operators 019_logical_operators 020_string_concatenation 021_add_string_nums 022_string_length 023_escape_characters 024_cmath 025_conditionals 026_ternary 027_switch 028_while_loop 029_fizzbuzz_while_loop 030_do_while_loop 031_for_loop 032_break_continue 033_arrays 034_no_array_size 035_get_size_of_array
 
 # =============================================================================
 # Built-in targets

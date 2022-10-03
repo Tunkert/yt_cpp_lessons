@@ -28,5 +28,10 @@
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/028_while_loop.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/029_fizzbuzz_while_loop.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/030_do_while_loop.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/031_for_loop.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/032_break_continue.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/033_arrays.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/034_no_array_size.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/035_get_size_of_array.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/rebuild_cache.dir
