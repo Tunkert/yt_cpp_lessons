@@ -567,6 +567,99 @@ build 017_addition_subtraction_assignment: CXX_EXECUTABLE_LINKER__017_addition_s
   TARGET_FILE = 017_addition_subtraction_assignment
   TARGET_PDB = 017_addition_subtraction_assignment.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 018_comparison_operators
+
+
+#############################################
+# Order-only phony target for 018_comparison_operators
+
+build cmake_object_order_depends_target_018_comparison_operators: phony || CMakeFiles/018_comparison_operators.dir
+
+build CMakeFiles/018_comparison_operators.dir/018_comparison_operators.cpp.o: CXX_COMPILER__018_comparison_operators_Debug /home/tunkert/competitive_programming/cpp_lessons/018_comparison_operators.cpp || cmake_object_order_depends_target_018_comparison_operators
+  DEP_FILE = CMakeFiles/018_comparison_operators.dir/018_comparison_operators.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/018_comparison_operators.dir
+  OBJECT_FILE_DIR = CMakeFiles/018_comparison_operators.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 018_comparison_operators
+
+
+#############################################
+# Link the executable 018_comparison_operators
+
+build 018_comparison_operators: CXX_EXECUTABLE_LINKER__018_comparison_operators_Debug CMakeFiles/018_comparison_operators.dir/018_comparison_operators.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/018_comparison_operators.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 018_comparison_operators
+  TARGET_PDB = 018_comparison_operators.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 019_logical_operators
+
+
+#############################################
+# Order-only phony target for 019_logical_operators
+
+build cmake_object_order_depends_target_019_logical_operators: phony || CMakeFiles/019_logical_operators.dir
+
+build CMakeFiles/019_logical_operators.dir/019_logical_operators.cpp.o: CXX_COMPILER__019_logical_operators_Debug /home/tunkert/competitive_programming/cpp_lessons/019_logical_operators.cpp || cmake_object_order_depends_target_019_logical_operators
+  DEP_FILE = CMakeFiles/019_logical_operators.dir/019_logical_operators.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/019_logical_operators.dir
+  OBJECT_FILE_DIR = CMakeFiles/019_logical_operators.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 019_logical_operators
+
+
+#############################################
+# Link the executable 019_logical_operators
+
+build 019_logical_operators: CXX_EXECUTABLE_LINKER__019_logical_operators_Debug CMakeFiles/019_logical_operators.dir/019_logical_operators.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/019_logical_operators.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 019_logical_operators
+  TARGET_PDB = 019_logical_operators.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 020_string_concatenation
+
+
+#############################################
+# Order-only phony target for 020_string_concatenation
+
+build cmake_object_order_depends_target_020_string_concatenation: phony || CMakeFiles/020_string_concatenation.dir
+
+build CMakeFiles/020_string_concatenation.dir/020_string_concatenation.cpp.o: CXX_COMPILER__020_string_concatenation_Debug /home/tunkert/competitive_programming/cpp_lessons/020_string_concatenation.cpp || cmake_object_order_depends_target_020_string_concatenation
+  DEP_FILE = CMakeFiles/020_string_concatenation.dir/020_string_concatenation.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/020_string_concatenation.dir
+  OBJECT_FILE_DIR = CMakeFiles/020_string_concatenation.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 020_string_concatenation
+
+
+#############################################
+# Link the executable 020_string_concatenation
+
+build 020_string_concatenation: CXX_EXECUTABLE_LINKER__020_string_concatenation_Debug CMakeFiles/020_string_concatenation.dir/020_string_concatenation.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/020_string_concatenation.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 020_string_concatenation
+  TARGET_PDB = 020_string_concatenation.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -602,7 +695,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug
 
-build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment
+build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment 018_comparison_operators 019_logical_operators 020_string_concatenation
 
 # =============================================================================
 # Built-in targets
