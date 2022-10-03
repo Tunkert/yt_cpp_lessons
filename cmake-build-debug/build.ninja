@@ -381,6 +381,192 @@ build 011_numeric_data_types_4: CXX_EXECUTABLE_LINKER__011_numeric_data_types_4_
   TARGET_FILE = 011_numeric_data_types_4
   TARGET_PDB = 011_numeric_data_types_4.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 012_booleans
+
+
+#############################################
+# Order-only phony target for 012_booleans
+
+build cmake_object_order_depends_target_012_booleans: phony || CMakeFiles/012_booleans.dir
+
+build CMakeFiles/012_booleans.dir/012_booleans.cpp.o: CXX_COMPILER__012_booleans_Debug /home/tunkert/competitive_programming/cpp_lessons/012_booleans.cpp || cmake_object_order_depends_target_012_booleans
+  DEP_FILE = CMakeFiles/012_booleans.dir/012_booleans.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/012_booleans.dir
+  OBJECT_FILE_DIR = CMakeFiles/012_booleans.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 012_booleans
+
+
+#############################################
+# Link the executable 012_booleans
+
+build 012_booleans: CXX_EXECUTABLE_LINKER__012_booleans_Debug CMakeFiles/012_booleans.dir/012_booleans.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/012_booleans.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 012_booleans
+  TARGET_PDB = 012_booleans.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 013_char_and_ascii
+
+
+#############################################
+# Order-only phony target for 013_char_and_ascii
+
+build cmake_object_order_depends_target_013_char_and_ascii: phony || CMakeFiles/013_char_and_ascii.dir
+
+build CMakeFiles/013_char_and_ascii.dir/013_char_and_ascii.cpp.o: CXX_COMPILER__013_char_and_ascii_Debug /home/tunkert/competitive_programming/cpp_lessons/013_char_and_ascii.cpp || cmake_object_order_depends_target_013_char_and_ascii
+  DEP_FILE = CMakeFiles/013_char_and_ascii.dir/013_char_and_ascii.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/013_char_and_ascii.dir
+  OBJECT_FILE_DIR = CMakeFiles/013_char_and_ascii.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 013_char_and_ascii
+
+
+#############################################
+# Link the executable 013_char_and_ascii
+
+build 013_char_and_ascii: CXX_EXECUTABLE_LINKER__013_char_and_ascii_Debug CMakeFiles/013_char_and_ascii.dir/013_char_and_ascii.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/013_char_and_ascii.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 013_char_and_ascii
+  TARGET_PDB = 013_char_and_ascii.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 014_bit_shifting
+
+
+#############################################
+# Order-only phony target for 014_bit_shifting
+
+build cmake_object_order_depends_target_014_bit_shifting: phony || CMakeFiles/014_bit_shifting.dir
+
+build CMakeFiles/014_bit_shifting.dir/014_bit_shifting.cpp.o: CXX_COMPILER__014_bit_shifting_Debug /home/tunkert/competitive_programming/cpp_lessons/014_bit_shifting.cpp || cmake_object_order_depends_target_014_bit_shifting
+  DEP_FILE = CMakeFiles/014_bit_shifting.dir/014_bit_shifting.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/014_bit_shifting.dir
+  OBJECT_FILE_DIR = CMakeFiles/014_bit_shifting.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 014_bit_shifting
+
+
+#############################################
+# Link the executable 014_bit_shifting
+
+build 014_bit_shifting: CXX_EXECUTABLE_LINKER__014_bit_shifting_Debug CMakeFiles/014_bit_shifting.dir/014_bit_shifting.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/014_bit_shifting.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 014_bit_shifting
+  TARGET_PDB = 014_bit_shifting.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 015_strings
+
+
+#############################################
+# Order-only phony target for 015_strings
+
+build cmake_object_order_depends_target_015_strings: phony || CMakeFiles/015_strings.dir
+
+build CMakeFiles/015_strings.dir/015_strings.cpp.o: CXX_COMPILER__015_strings_Debug /home/tunkert/competitive_programming/cpp_lessons/015_strings.cpp || cmake_object_order_depends_target_015_strings
+  DEP_FILE = CMakeFiles/015_strings.dir/015_strings.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/015_strings.dir
+  OBJECT_FILE_DIR = CMakeFiles/015_strings.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 015_strings
+
+
+#############################################
+# Link the executable 015_strings
+
+build 015_strings: CXX_EXECUTABLE_LINKER__015_strings_Debug CMakeFiles/015_strings.dir/015_strings.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/015_strings.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 015_strings
+  TARGET_PDB = 015_strings.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 016_increment_decrement
+
+
+#############################################
+# Order-only phony target for 016_increment_decrement
+
+build cmake_object_order_depends_target_016_increment_decrement: phony || CMakeFiles/016_increment_decrement.dir
+
+build CMakeFiles/016_increment_decrement.dir/016_increment_decrement.cpp.o: CXX_COMPILER__016_increment_decrement_Debug /home/tunkert/competitive_programming/cpp_lessons/016_increment_decrement.cpp || cmake_object_order_depends_target_016_increment_decrement
+  DEP_FILE = CMakeFiles/016_increment_decrement.dir/016_increment_decrement.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/016_increment_decrement.dir
+  OBJECT_FILE_DIR = CMakeFiles/016_increment_decrement.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 016_increment_decrement
+
+
+#############################################
+# Link the executable 016_increment_decrement
+
+build 016_increment_decrement: CXX_EXECUTABLE_LINKER__016_increment_decrement_Debug CMakeFiles/016_increment_decrement.dir/016_increment_decrement.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/016_increment_decrement.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 016_increment_decrement
+  TARGET_PDB = 016_increment_decrement.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 017_addition_subtraction_assignment
+
+
+#############################################
+# Order-only phony target for 017_addition_subtraction_assignment
+
+build cmake_object_order_depends_target_017_addition_subtraction_assignment: phony || CMakeFiles/017_addition_subtraction_assignment.dir
+
+build CMakeFiles/017_addition_subtraction_assignment.dir/017_addition_subtraction_assignment.cpp.o: CXX_COMPILER__017_addition_subtraction_assignment_Debug /home/tunkert/competitive_programming/cpp_lessons/017_addition_subtraction_assignment.cpp || cmake_object_order_depends_target_017_addition_subtraction_assignment
+  DEP_FILE = CMakeFiles/017_addition_subtraction_assignment.dir/017_addition_subtraction_assignment.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/017_addition_subtraction_assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles/017_addition_subtraction_assignment.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 017_addition_subtraction_assignment
+
+
+#############################################
+# Link the executable 017_addition_subtraction_assignment
+
+build 017_addition_subtraction_assignment: CXX_EXECUTABLE_LINKER__017_addition_subtraction_assignment_Debug CMakeFiles/017_addition_subtraction_assignment.dir/017_addition_subtraction_assignment.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/017_addition_subtraction_assignment.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 017_addition_subtraction_assignment
+  TARGET_PDB = 017_addition_subtraction_assignment.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -416,7 +602,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug
 
-build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4
+build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment
 
 # =============================================================================
 # Built-in targets
