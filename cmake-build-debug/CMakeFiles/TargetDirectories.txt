@@ -18,5 +18,9 @@
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/018_comparison_operators.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/019_logical_operators.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/020_string_concatenation.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/021_add_string_nums.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/022_string_length.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/023_escape_characters.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/024_cmath.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/rebuild_cache.dir

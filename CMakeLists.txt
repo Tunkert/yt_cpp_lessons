@@ -25,3 +25,7 @@ add_executable(017_addition_subtraction_assignment 017_addition_subtraction_assi
 add_executable(018_comparison_operators 018_comparison_operators.cpp)
 add_executable(019_logical_operators 019_logical_operators.cpp)
 add_executable(020_string_concatenation 020_string_concatenation.cpp)
+add_executable(021_add_string_nums 021_add_string_nums.cpp)
+add_executable(022_string_length 022_string_length.cpp)
+add_executable(023_escape_characters 023_escape_characters.cpp)
+add_executable(024_cmath 024_cmath.cpp)

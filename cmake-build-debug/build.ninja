@@ -660,6 +660,130 @@ build 020_string_concatenation: CXX_EXECUTABLE_LINKER__020_string_concatenation_
   TARGET_FILE = 020_string_concatenation
   TARGET_PDB = 020_string_concatenation.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 021_add_string_nums
+
+
+#############################################
+# Order-only phony target for 021_add_string_nums
+
+build cmake_object_order_depends_target_021_add_string_nums: phony || CMakeFiles/021_add_string_nums.dir
+
+build CMakeFiles/021_add_string_nums.dir/021_add_string_nums.cpp.o: CXX_COMPILER__021_add_string_nums_Debug /home/tunkert/competitive_programming/cpp_lessons/021_add_string_nums.cpp || cmake_object_order_depends_target_021_add_string_nums
+  DEP_FILE = CMakeFiles/021_add_string_nums.dir/021_add_string_nums.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/021_add_string_nums.dir
+  OBJECT_FILE_DIR = CMakeFiles/021_add_string_nums.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 021_add_string_nums
+
+
+#############################################
+# Link the executable 021_add_string_nums
+
+build 021_add_string_nums: CXX_EXECUTABLE_LINKER__021_add_string_nums_Debug CMakeFiles/021_add_string_nums.dir/021_add_string_nums.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/021_add_string_nums.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 021_add_string_nums
+  TARGET_PDB = 021_add_string_nums.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 022_string_length
+
+
+#############################################
+# Order-only phony target for 022_string_length
+
+build cmake_object_order_depends_target_022_string_length: phony || CMakeFiles/022_string_length.dir
+
+build CMakeFiles/022_string_length.dir/022_string_length.cpp.o: CXX_COMPILER__022_string_length_Debug /home/tunkert/competitive_programming/cpp_lessons/022_string_length.cpp || cmake_object_order_depends_target_022_string_length
+  DEP_FILE = CMakeFiles/022_string_length.dir/022_string_length.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/022_string_length.dir
+  OBJECT_FILE_DIR = CMakeFiles/022_string_length.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 022_string_length
+
+
+#############################################
+# Link the executable 022_string_length
+
+build 022_string_length: CXX_EXECUTABLE_LINKER__022_string_length_Debug CMakeFiles/022_string_length.dir/022_string_length.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/022_string_length.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 022_string_length
+  TARGET_PDB = 022_string_length.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 023_escape_characters
+
+
+#############################################
+# Order-only phony target for 023_escape_characters
+
+build cmake_object_order_depends_target_023_escape_characters: phony || CMakeFiles/023_escape_characters.dir
+
+build CMakeFiles/023_escape_characters.dir/023_escape_characters.cpp.o: CXX_COMPILER__023_escape_characters_Debug /home/tunkert/competitive_programming/cpp_lessons/023_escape_characters.cpp || cmake_object_order_depends_target_023_escape_characters
+  DEP_FILE = CMakeFiles/023_escape_characters.dir/023_escape_characters.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/023_escape_characters.dir
+  OBJECT_FILE_DIR = CMakeFiles/023_escape_characters.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 023_escape_characters
+
+
+#############################################
+# Link the executable 023_escape_characters
+
+build 023_escape_characters: CXX_EXECUTABLE_LINKER__023_escape_characters_Debug CMakeFiles/023_escape_characters.dir/023_escape_characters.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/023_escape_characters.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 023_escape_characters
+  TARGET_PDB = 023_escape_characters.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 024_cmath
+
+
+#############################################
+# Order-only phony target for 024_cmath
+
+build cmake_object_order_depends_target_024_cmath: phony || CMakeFiles/024_cmath.dir
+
+build CMakeFiles/024_cmath.dir/024_cmath.cpp.o: CXX_COMPILER__024_cmath_Debug /home/tunkert/competitive_programming/cpp_lessons/024_cmath.cpp || cmake_object_order_depends_target_024_cmath
+  DEP_FILE = CMakeFiles/024_cmath.dir/024_cmath.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/024_cmath.dir
+  OBJECT_FILE_DIR = CMakeFiles/024_cmath.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 024_cmath
+
+
+#############################################
+# Link the executable 024_cmath
+
+build 024_cmath: CXX_EXECUTABLE_LINKER__024_cmath_Debug CMakeFiles/024_cmath.dir/024_cmath.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/024_cmath.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 024_cmath
+  TARGET_PDB = 024_cmath.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -695,7 +819,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug
 
-build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment 018_comparison_operators 019_logical_operators 020_string_concatenation
+build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment 018_comparison_operators 019_logical_operators 020_string_concatenation 021_add_string_nums 022_string_length 023_escape_characters 024_cmath
 
 # =============================================================================
 # Built-in targets
