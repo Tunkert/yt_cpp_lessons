@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp_lessons",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "002_variables::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-002_variables-Debug-e7e92e8d3412a3d0e56e.json",
+					"name" : "002_variables",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "003_declare_multiple_variables::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-003_declare_multiple_variables-Debug-0b9f65bf16acc0cf9073.json",
+					"name" : "003_declare_multiple_variables",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "004_constants::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-004_constants-Debug-f73477790afded5d8499.json",
+					"name" : "004_constants",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "005_user_input::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-005_user_input-Debug-7df34177bfbf07bdd259.json",
+					"name" : "005_user_input",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "006_basic_calculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-006_basic_calculator-Debug-0edeadeea199d5fe75d3.json",
+					"name" : "006_basic_calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "007_arithmetic_operations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-007_arithmetic_operations-Debug-11c7edbae3a4c9f75932.json",
+					"name" : "007_arithmetic_operations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "008_numeric_data_types::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-008_numeric_data_types-Debug-12c717ae0c3f27bb0356.json",
+					"name" : "008_numeric_data_types",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "009_numeric_data_types_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-009_numeric_data_types_2-Debug-890637c4d85c8765702b.json",
+					"name" : "009_numeric_data_types_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "010_numeric_data_types_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-010_numeric_data_types_3-Debug-7c60428492e026dfae0f.json",
+					"name" : "010_numeric_data_types_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "011_numeric_data_types_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-011_numeric_data_types_4-Debug-734de232ebbf8ff7e5bc.json",
+					"name" : "011_numeric_data_types_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_lessons::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_lessons-Debug-2f6821248b588c5cfc25.json",
+					"name" : "cpp_lessons",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug",
+		"source" : "/home/tunkert/competitive_programming/cpp_lessons"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

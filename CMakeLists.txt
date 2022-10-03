@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.23)
+project(cpp_lessons)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(cpp_lessons
+        001_hello_world.cpp)
+
+add_executable(002_variables 002_variables.cpp)
+add_executable(003_declare_multiple_variables 003_declare_multiple_variables.cpp)
+add_executable(004_constants 004_constants.cpp)
+add_executable(005_user_input 005_user_input.cpp)
+add_executable(006_basic_calculator 006_basic_calculator.cpp)
+add_executable(007_arithmetic_operations 007_arithmetic_operations.cpp)
+add_executable(008_numeric_data_types 008_numeric_data_types.cpp)
+add_executable(009_numeric_data_types_2 009_numeric_data_types_2.cpp)
+add_executable(010_numeric_data_types_3 010_numeric_data_types_3.cpp)
+add_executable(011_numeric_data_types_4 011_numeric_data_types_4.cpp)
