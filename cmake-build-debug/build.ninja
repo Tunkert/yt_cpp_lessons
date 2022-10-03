@@ -1125,6 +1125,223 @@ build 035_get_size_of_array: CXX_EXECUTABLE_LINKER__035_get_size_of_array_Debug 
   TARGET_FILE = 035_get_size_of_array
   TARGET_PDB = 035_get_size_of_array.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 036_multidimensional_arrays
+
+
+#############################################
+# Order-only phony target for 036_multidimensional_arrays
+
+build cmake_object_order_depends_target_036_multidimensional_arrays: phony || CMakeFiles/036_multidimensional_arrays.dir
+
+build CMakeFiles/036_multidimensional_arrays.dir/036_multidimensional_arrays.cpp.o: CXX_COMPILER__036_multidimensional_arrays_Debug /home/tunkert/competitive_programming/cpp_lessons/036_multidimensional_arrays.cpp || cmake_object_order_depends_target_036_multidimensional_arrays
+  DEP_FILE = CMakeFiles/036_multidimensional_arrays.dir/036_multidimensional_arrays.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/036_multidimensional_arrays.dir
+  OBJECT_FILE_DIR = CMakeFiles/036_multidimensional_arrays.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 036_multidimensional_arrays
+
+
+#############################################
+# Link the executable 036_multidimensional_arrays
+
+build 036_multidimensional_arrays: CXX_EXECUTABLE_LINKER__036_multidimensional_arrays_Debug CMakeFiles/036_multidimensional_arrays.dir/036_multidimensional_arrays.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/036_multidimensional_arrays.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 036_multidimensional_arrays
+  TARGET_PDB = 036_multidimensional_arrays.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 037_structs
+
+
+#############################################
+# Order-only phony target for 037_structs
+
+build cmake_object_order_depends_target_037_structs: phony || CMakeFiles/037_structs.dir
+
+build CMakeFiles/037_structs.dir/037_structs.cpp.o: CXX_COMPILER__037_structs_Debug /home/tunkert/competitive_programming/cpp_lessons/037_structs.cpp || cmake_object_order_depends_target_037_structs
+  DEP_FILE = CMakeFiles/037_structs.dir/037_structs.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/037_structs.dir
+  OBJECT_FILE_DIR = CMakeFiles/037_structs.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 037_structs
+
+
+#############################################
+# Link the executable 037_structs
+
+build 037_structs: CXX_EXECUTABLE_LINKER__037_structs_Debug CMakeFiles/037_structs.dir/037_structs.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/037_structs.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 037_structs
+  TARGET_PDB = 037_structs.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 038_declare_multiple_structs
+
+
+#############################################
+# Order-only phony target for 038_declare_multiple_structs
+
+build cmake_object_order_depends_target_038_declare_multiple_structs: phony || CMakeFiles/038_declare_multiple_structs.dir
+
+build CMakeFiles/038_declare_multiple_structs.dir/038_declare_multiple_structs.cpp.o: CXX_COMPILER__038_declare_multiple_structs_Debug /home/tunkert/competitive_programming/cpp_lessons/038_declare_multiple_structs.cpp || cmake_object_order_depends_target_038_declare_multiple_structs
+  DEP_FILE = CMakeFiles/038_declare_multiple_structs.dir/038_declare_multiple_structs.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/038_declare_multiple_structs.dir
+  OBJECT_FILE_DIR = CMakeFiles/038_declare_multiple_structs.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 038_declare_multiple_structs
+
+
+#############################################
+# Link the executable 038_declare_multiple_structs
+
+build 038_declare_multiple_structs: CXX_EXECUTABLE_LINKER__038_declare_multiple_structs_Debug CMakeFiles/038_declare_multiple_structs.dir/038_declare_multiple_structs.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/038_declare_multiple_structs.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 038_declare_multiple_structs
+  TARGET_PDB = 038_declare_multiple_structs.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 039_references
+
+
+#############################################
+# Order-only phony target for 039_references
+
+build cmake_object_order_depends_target_039_references: phony || CMakeFiles/039_references.dir
+
+build CMakeFiles/039_references.dir/039_references.cpp.o: CXX_COMPILER__039_references_Debug /home/tunkert/competitive_programming/cpp_lessons/039_references.cpp || cmake_object_order_depends_target_039_references
+  DEP_FILE = CMakeFiles/039_references.dir/039_references.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/039_references.dir
+  OBJECT_FILE_DIR = CMakeFiles/039_references.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 039_references
+
+
+#############################################
+# Link the executable 039_references
+
+build 039_references: CXX_EXECUTABLE_LINKER__039_references_Debug CMakeFiles/039_references.dir/039_references.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/039_references.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 039_references
+  TARGET_PDB = 039_references.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 040_print_memory_address
+
+
+#############################################
+# Order-only phony target for 040_print_memory_address
+
+build cmake_object_order_depends_target_040_print_memory_address: phony || CMakeFiles/040_print_memory_address.dir
+
+build CMakeFiles/040_print_memory_address.dir/040_print_memory_address.cpp.o: CXX_COMPILER__040_print_memory_address_Debug /home/tunkert/competitive_programming/cpp_lessons/040_print_memory_address.cpp || cmake_object_order_depends_target_040_print_memory_address
+  DEP_FILE = CMakeFiles/040_print_memory_address.dir/040_print_memory_address.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/040_print_memory_address.dir
+  OBJECT_FILE_DIR = CMakeFiles/040_print_memory_address.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 040_print_memory_address
+
+
+#############################################
+# Link the executable 040_print_memory_address
+
+build 040_print_memory_address: CXX_EXECUTABLE_LINKER__040_print_memory_address_Debug CMakeFiles/040_print_memory_address.dir/040_print_memory_address.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/040_print_memory_address.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 040_print_memory_address
+  TARGET_PDB = 040_print_memory_address.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 041_pointers
+
+
+#############################################
+# Order-only phony target for 041_pointers
+
+build cmake_object_order_depends_target_041_pointers: phony || CMakeFiles/041_pointers.dir
+
+build CMakeFiles/041_pointers.dir/041_pointers.cpp.o: CXX_COMPILER__041_pointers_Debug /home/tunkert/competitive_programming/cpp_lessons/041_pointers.cpp || cmake_object_order_depends_target_041_pointers
+  DEP_FILE = CMakeFiles/041_pointers.dir/041_pointers.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/041_pointers.dir
+  OBJECT_FILE_DIR = CMakeFiles/041_pointers.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 041_pointers
+
+
+#############################################
+# Link the executable 041_pointers
+
+build 041_pointers: CXX_EXECUTABLE_LINKER__041_pointers_Debug CMakeFiles/041_pointers.dir/041_pointers.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/041_pointers.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 041_pointers
+  TARGET_PDB = 041_pointers.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 041_modify_values_of_pointers
+
+
+#############################################
+# Order-only phony target for 041_modify_values_of_pointers
+
+build cmake_object_order_depends_target_041_modify_values_of_pointers: phony || CMakeFiles/041_modify_values_of_pointers.dir
+
+build CMakeFiles/041_modify_values_of_pointers.dir/041_modify_values_of_pointers.cpp.o: CXX_COMPILER__041_modify_values_of_pointers_Debug /home/tunkert/competitive_programming/cpp_lessons/041_modify_values_of_pointers.cpp || cmake_object_order_depends_target_041_modify_values_of_pointers
+  DEP_FILE = CMakeFiles/041_modify_values_of_pointers.dir/041_modify_values_of_pointers.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/041_modify_values_of_pointers.dir
+  OBJECT_FILE_DIR = CMakeFiles/041_modify_values_of_pointers.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 041_modify_values_of_pointers
+
+
+#############################################
+# Link the executable 041_modify_values_of_pointers
+
+build 041_modify_values_of_pointers: CXX_EXECUTABLE_LINKER__041_modify_values_of_pointers_Debug CMakeFiles/041_modify_values_of_pointers.dir/041_modify_values_of_pointers.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/041_modify_values_of_pointers.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 041_modify_values_of_pointers
+  TARGET_PDB = 041_modify_values_of_pointers.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1160,7 +1377,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug
 
-build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment 018_comparison_operators 019_logical_operators 020_string_concatenation 021_add_string_nums 022_string_length 023_escape_characters 024_cmath 025_conditionals 026_ternary 027_switch 028_while_loop 029_fizzbuzz_while_loop 030_do_while_loop 031_for_loop 032_break_continue 033_arrays 034_no_array_size 035_get_size_of_array
+build all: phony cpp_lessons 002_variables 003_declare_multiple_variables 004_constants 005_user_input 006_basic_calculator 007_arithmetic_operations 008_numeric_data_types 009_numeric_data_types_2 010_numeric_data_types_3 011_numeric_data_types_4 012_booleans 013_char_and_ascii 014_bit_shifting 015_strings 016_increment_decrement 017_addition_subtraction_assignment 018_comparison_operators 019_logical_operators 020_string_concatenation 021_add_string_nums 022_string_length 023_escape_characters 024_cmath 025_conditionals 026_ternary 027_switch 028_while_loop 029_fizzbuzz_while_loop 030_do_while_loop 031_for_loop 032_break_continue 033_arrays 034_no_array_size 035_get_size_of_array 036_multidimensional_arrays 037_structs 038_declare_multiple_structs 039_references 040_print_memory_address 041_pointers 041_modify_values_of_pointers
 
 # =============================================================================
 # Built-in targets

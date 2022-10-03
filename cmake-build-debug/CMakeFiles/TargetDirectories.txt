@@ -33,5 +33,12 @@
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/033_arrays.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/034_no_array_size.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/035_get_size_of_array.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/036_multidimensional_arrays.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/037_structs.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/038_declare_multiple_structs.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/039_references.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/040_print_memory_address.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/041_pointers.dir
+/home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/041_modify_values_of_pointers.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/tunkert/competitive_programming/cpp_lessons/cmake-build-debug/CMakeFiles/rebuild_cache.dir
